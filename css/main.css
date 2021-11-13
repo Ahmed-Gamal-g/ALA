@@ -38,6 +38,7 @@
     text-align: center;
     align-items: center;
     cursor: pointer;
+    z-index: 1000;
 }
 
 .back-Up {
