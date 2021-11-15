@@ -85,7 +85,7 @@ html {
 
 
 .navbar-light .navbar-nav .nav-link:hover {
-/*     color: white; */
+    color: #1B92EC;
     transform: scale(1.1 , 1.1);
 }
 
